@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ASHISHGARG-PC_SQLEXPRESS.CrimeInLondon_DataWareHouse"
+  DTS:DTSID="{2EFCABF1-72BA-451F-9639-378FF7F3905F}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=ASHISHGARG-PC\SQLEXPRESS;Initial Catalog=CrimeInLondon_DataWareHouse;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
