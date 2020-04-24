@@ -2,13 +2,13 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>LondonCrimeIntegrationServiceSol</Name>
-    <LastWriteTime>2020-04-22T22:19:58.8088648Z</LastWriteTime>
+    <LastWriteTime>2020-04-24T09:32:39.3758167Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>DWH_Load.dtsx</Name>
-      <LastWriteTime>2020-04-22T23:47:07.2631821Z</LastWriteTime>
+      <LastWriteTime>2020-04-24T23:05:32.6796114Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
